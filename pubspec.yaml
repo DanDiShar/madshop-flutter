@@ -1,0 +1,55 @@
+name: madshop_ui_sharipov_try2
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.2.3  # Пока закомментируем, используем PNG
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  # ВАЖНО: отступы должны быть правильными!
+  assets:
+    - assets/images/
+    - assets/images/bubbles_login_2.png
+    - assets/images/create_account_bubbles.png
+    - assets/images/password_bubbles.png
+    - assets/images/flag.png
+    - assets/images/icon.png
+    - assets/images/product1.png
+    - assets/images/product2.png
+    - assets/images/product3.png
+    - assets/images/product4.png
+    - assets/images/product5.png
+    - assets/images/product6.png
+    - assets/icons/home.svg
+    - assets/icons/favorite.svg
+    - assets/icons/cart.svg
+    - assets/icons/delete.svg
+    - assets/icons/less.svg
+    - assets/icons/more.svg
+    - assets/icons/eye-slash.svg
+
+  fonts:
+    - family: Raleway
+      fonts:
+        - asset: fonts/Raleway-Bold.ttf
+    - family: Nunito Sans
+      fonts:
+        - asset: fonts/NunitoSans-VariableFont_YTLC,opsz,wdth,wght.ttf
+    - family: Poppins
+      fonts:
+        - asset: fonts/Poppins-Medium.ttf
