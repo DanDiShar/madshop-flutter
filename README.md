@@ -1,16 +1,17 @@
-# madshop_ui_sharipov_try2
+# Madshop Flutter UI
 
-A new Flutter project.
+Приложение интернет-магазина на Flutter.
 
-## Getting Started
+## Особенности
+- Интерфейс интернет-магазина
+- Избранные товары
+- Корзина покупок
+- Адаптивный дизайн
 
-This project is a starting point for a Flutter application.
+## Установка
+1. Установите Flutter SDK
+2. Клонируйте репозиторий
+3. Запустите `flutter pub get`
+4. Запустите `flutter run`
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![vid](Happy1.mp4)
