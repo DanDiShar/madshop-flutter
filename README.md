@@ -14,4 +14,4 @@
 3. Запустите `flutter pub get`
 4. Запустите `flutter run`
 
-![vid](Happy1.mp4)
+![vid](2025-12-01 21-24-34.mkv)
